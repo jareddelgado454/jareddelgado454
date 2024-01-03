@@ -74,7 +74,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jareddelgado454&show_icons=true&theme=dark&locale=en" alt="jareddelgado454" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jareddelgado454&theme=dark" alt="jareddelgado454" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
