@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vitejs.dev%2Fguide%2F&psig=AOvVaw25SD1JTAerS_pPcYKnk74X&ust=1704336705924000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi5n5GbwIMDFQAAAAAdAAAAABAE" alt="vite.js" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4" alt="vite.js" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="next.js" width="40" height="40"/>
