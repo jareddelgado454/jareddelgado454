@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="INSERTAR_URL_DE_LARAVEL" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="INSERTAR_URL_DE_VERCEL" alt="vercel" width="40" height="40"/>
+    <img src="https://cdn.changelog.com/uploads/icons/news_sources/qGw/icon_large.png?v=63692097118" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 <br>
